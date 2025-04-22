@@ -16,6 +16,7 @@ const Nav = () => {
     let items=useSelector(state=>state.cart)
     console.log(items)
   return (
+      <div className="sticky top-0 backdrop-blur-xl">
     <div className="w-full  flex justify-between items-center p-2 md:p-3">
       <div className="p-[10px] bg-white flex justify-center items-center rounded-md shadow-xl">
         <MdFastfood className="text-orange-500 text-3xl" />
@@ -39,6 +40,7 @@ const Nav = () => {
         <LuShoppingBag className="text-orange-500 text-3xl" />
       </div>
     </div>
+         </div>
   );
 };
 
