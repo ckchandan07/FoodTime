@@ -23,22 +23,22 @@ import { GiHamburger } from "react-icons/gi";
 },
 {
     id:4,
-    name:"Pasta",
+    name:"pasta",
     icon:<CiBowlNoodles className="  text-orange-600"/>,
 },
 {
     id:5,
-    name:"Main Course",
+    name:"main_course",
     icon:<MdOutlineFoodBank className="  text-orange-600"/>,
 },
 {
     id:6,
-    name:"Pizza",
+    name:"pizza",
     icon:<GiFullPizza className="  text-orange-600"/>,
 },
 {
     id:7,
-    name:"Burger",
+    name:"burger",
     icon:<GiHamburger className="  text-orange-600"/>,
 },
 
