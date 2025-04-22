@@ -25,7 +25,7 @@ import image24 from "./src/assets/image24.avif";
 import image25 from "./src/assets/image25.avif";
 
 export const food_items = [
-    {"id": 1, "food_name": "Pan cakes", "food_category": "Breakfast", "food_type": "veg", "food_quantity": 1, "food_image": image1, "price": 499},
+    {"id": 1, "food_name": "Pan Cakes", "food_category": "Breakfast", "food_type": "veg", "food_quantity": 1, "food_image": image1, "price": 499},
     {"id": 2, "food_name": "Chicken Soup", "food_category": "Soups", "food_type": "non_veg", "food_quantity": 1, "food_image": image2, "price": 399},
     {"id": 3, "food_name": "Minestrone Soup", "food_category": "Soups", "food_type": "veg", "food_quantity": 1, "food_image": image3, "price": 349},
     {"id": 4, "food_name": "Spaghetti Carbonara", "food_category": "pasta", "food_type": "non_veg", "food_quantity": 1, "food_image": image4, "price": 999},
